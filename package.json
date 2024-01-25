@@ -1,0 +1,19 @@
+{
+  "name": "configuring-eslint-in-a-node.js-project",
+  "version": "1.0.0",
+  "description": "the app shows how eslint checks the code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bejarano03/eslint.git"
+  },
+  "author": "Marco Bejarano Oseguera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bejarano03/eslint/issues"
+  },
+  "homepage": "https://github.com/Bejarano03/eslint#readme"
+}
