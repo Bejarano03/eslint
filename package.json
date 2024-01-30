@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Bejarano03/eslint/issues"
   },
-  "homepage": "https://github.com/Bejarano03/eslint#readme"
+  "homepage": "https://github.com/Bejarano03/eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
 }
